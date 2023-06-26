@@ -4,12 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
--  Born in '95.
--  Proud of my Problem-solving skills, and quick-thinking abilities.
--  Developed and currently maintaining a dedicated Android app used by several Gyms, digitizing their clients' workouts. 
--  Keeping a healthy work-life balance to keep my mind sharp
--  knowing from experience my thresholds and limitations, I have the confidence to push myself as I pursue my goals and dreams.
--  Great intuition regarding un-familiar technologies, knowing where to probe in order to understand the tool and what I can extract from it 
+-  Proud of my exceptional problem-solving skills and quick-thinking abilities.
+-  Developed and currently maintaining a dedicated Android app utilized by multiple gyms, effectively digitizing their clients' workout routines.
+-  Prioritize maintaining a healthy work-life balance to ensure optimal mental acuity.
+-  Possess a deep understanding of my personal thresholds and limitations through experience, empowering me to confidently push myself as I pursue my goals and aspirations.
+-  Demonstrate a remarkable aptitude for grasping unfamiliar technologies, employing strategic probing techniques to comprehend the tool's capabilities and maximize its potential.
 
 <h3> 🛠 &nbsp;Skills</h3>
 
