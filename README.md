@@ -13,6 +13,7 @@
 <h3> 🛠 &nbsp;Skills</h3>
 
 - Languages:
+  ![Java](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007396)
 - Platforms:
